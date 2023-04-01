@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Flutter clean architecture - Posts app بالعربي
 
 ## #1 Intro
@@ -179,3 +180,6 @@
 <br/>
 
 * [Video Link](https://youtu.be/YrCnLcSPL9c)
+=======
+Initial commit
+>>>>>>> 8e278108c4810d39f59267e3c6251b65a6aae570
